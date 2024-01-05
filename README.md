@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, React, Android Development**
 
-- 📫 How to reach me **kx412764776@gmail.com**
+- 📫 How to reach me **connorchen919@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
