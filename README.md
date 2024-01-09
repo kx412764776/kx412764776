@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Spring Boot, React, Android Development**
 
+- 👯 I am currently looking for a **full-stack developer or back-end developer** role. If you are interested in me, please contact me.
+
 - 📫 How to reach me **connorchen919@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
