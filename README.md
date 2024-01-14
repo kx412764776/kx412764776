@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kx412764776&label=Profile%20views&color=0e75b6&style=flat" alt="kx412764776" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, React, Android Development**
+- My Portfolio: <a href="https://qizhao-portfolio.vercel.app/" target="blank">https://qizhao-portfolio.vercel.app/</a>
+
+- 🌱 I’m currently learning **Spring Boot, React, Next.js and Android Development**
 
 - 👯 I am currently looking for a **full-stack developer or back-end developer** role. If you are interested in me, please contact me.
 
